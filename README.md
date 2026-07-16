@@ -1,7 +1,6 @@
 # Privacy Policy for Lumio
 
-**Last updated:** [Insert Date]
-
+**Last updated:**  16-07-2026
 Lumio ("we", "our", "the app") is a communication support app designed to help autistic children express themselves, intended for use by children under the guidance of a parent or caregiver. This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information.
 
 ## Information We Collect
@@ -34,7 +33,7 @@ Lumio uses on-device text-to-speech technology to support communication features
 
 Lumio is designed for use by children under the direct supervision of a parent or caregiver, who is responsible for creating and managing the account. We do not knowingly collect personal information directly from children. The account holder (parent/caregiver) is the individual who provides their email address during sign-up.
 
-If you believe a child has provided us with personal information without appropriate parental involvement, please contact us at [Insert Contact Email] so we can address it.
+If you believe a child has provided us with personal information without appropriate parental involvement, please contact us at  ubaidwasiq@gmail.com so we can address it.
 
 ## Data Security
 
@@ -42,7 +41,7 @@ We take reasonable measures to protect your information, including encrypted sto
 
 ## Data Retention
 
-We retain your account information for as long as your account remains active. You may request deletion of your account and associated data at any time by contacting us at [Insert Contact Email].
+We retain your account information for as long as your account remains active. You may request deletion of your account and associated data at any time by contacting us at ubaidwasiq@gmail.com
 
 ## Your Rights
 
@@ -51,7 +50,7 @@ Depending on your location, you may have the right to:
 - Request correction or deletion of your data
 - Withdraw consent for data processing
 
-To exercise these rights, contact us at [Insert Contact Email].
+To exercise these rights, contact us at ubaidwasiq@gmail.com.
 
 ## Changes to This Policy
 
@@ -60,4 +59,4 @@ We may update this Privacy Policy from time to time. Changes will be posted on t
 ## Contact Us
 
 If you have questions about this Privacy Policy, please contact us at:
-[Insert Contact Email]
+ubaidwasiq@gmail.com
